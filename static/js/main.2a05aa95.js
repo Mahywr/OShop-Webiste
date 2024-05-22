@@ -28730,7 +28730,7 @@
                           className: "flex items-center gap-2",
                           children: [
                             (0, Yf.jsx)("a", {
-                              href: "https://www.youtube.com/@reactjsBD",
+                              href: "https://www.youtube.com/@Mahywr",
                               target: "_blank",
                               rel: "noreferrer",
                               children: (0, Yf.jsx)("li", {
